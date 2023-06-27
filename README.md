@@ -6,7 +6,7 @@ Example:
    
 https://github.com/quochuynh67/FlutterResearchShader/assets/38383168/ad24a5bc-eba9-4803-a776-4edcbddcb237
 
-
+To custom transition check the example here and write/update glsl script: https://www.shadertoy.com/results?query=tag%3Dtransition
 
 ## Getting started
 

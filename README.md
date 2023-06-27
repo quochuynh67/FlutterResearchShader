@@ -1,5 +1,13 @@
 # Shaderize your flutters.
 
+Example:
+ - Switch 2 widget with a transition at middle
+ - interactive with shader canvas
+   
+https://github.com/quochuynh67/FlutterResearchShader/assets/38383168/ad24a5bc-eba9-4803-a776-4edcbddcb237
+
+
+
 ## Getting started
 
 Use Flutter 3.7 or later, and follow [this guide](https://docs.flutter.dev/development/ui/advanced/shaders).

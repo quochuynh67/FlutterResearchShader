@@ -1,0 +1,38 @@
+name: shady_example
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  shady:
+    path: '../'
+  vector_math: ^2.1.4
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  shaders:
+    - "assets/shaders/img0.frag"
+    - "assets/shaders/st0.frag"
+    - "assets/shaders/st1.frag"
+    - "assets/shaders/st2.frag"
+    - "assets/shaders/st3.frag"
+    - "assets/shaders/st4.frag"
+    - "assets/shaders/st5.frag"
+    - "assets/shaders/st6.frag"
+    - "assets/shaders/st7.frag"
+    - "assets/shaders/st8.frag"
+    - "assets/shaders/st9.frag"
+    - "assets/shaders/it0.frag"
+    - "assets/shaders/it1.frag"
+    - "assets/shaders/fx1.frag"
+    - "assets/shaders/zoom_blur.frag"
+    - "assets/shaders/test.frag"
+  assets:
+    - "assets/textures/"
